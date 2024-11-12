@@ -53,3 +53,4 @@ definisikan struktur tabel:
  
  Pengujian API:
  ![Srcreenshot siswa_api](images/image11.png)
+  ![Srcreenshot siswa_api](images/image12.png)
